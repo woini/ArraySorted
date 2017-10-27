@@ -1,12 +1,3 @@
 # ArraySorted
 
-Sorted:
-	Bubble  
-	Comb 
-	Insertion
-	Shell
-	SelectionSorted
-	QuickSorted
-	Merge 
-	Heap
-	Counting
+Sorted: Bubble, Comb, Insertion, Shell, Selection, Quick, Merge, Heap, Counting.
